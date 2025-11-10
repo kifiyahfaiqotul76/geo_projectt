@@ -12,4 +12,4 @@ Menampilkan alamat lengkap seperti nama jalan kota, dll berdasarkan koordinat(la
 5. Setelah tahap tahap itu dilakukan menjalankan aplikasi dengan menghubungkan device dan perangkat fisik.
 6. Hasil akhir
 ![hasilgeo_project](https://github.com/user-attachments/assets/efada6d8-51d3-494e-b54c-6325a0e53a02)
-![hasil2](https://github.com/user-attachments/assets/475823fe-8f3d-487c-bef0-c5c7bec536c5)
+![hasilll2](https://github.com/user-attachments/assets/9783a35f-7253-4548-98a0-c67aa5dbd855)
